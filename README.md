@@ -1,15 +1,7 @@
 # wechat_relationship
 
-### 微信小程序--亲戚关系计算  
+### 微信小程序--亲戚称呼计算  
 
-![image](https://github.com/a858742487/Wx-qinqi-jisuanqi/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180208215414.jpg)
-![image](https://github.com/a858742487/Wx-qinqi-jisuanqi/blob/master/images/1.png)
-![image](https://github.com/a858742487/Wx-qinqi-jisuanqi/blob/master/images/2.png)       
-![image](https://github.com/a858742487/Wx-qinqi-jisuanqi/blob/master/images/mmexport1519947613681.jpg)    
-![image](https://github.com/a858742487/Wx-qinqi-jisuanqi/blob/master/images/mmexport1519947616873.jpg) 
-### 目前已上线，欢迎体验~  
+> 快速计算出亲戚间的正确称呼，让您更好地了解中国亲戚称呼文化。
 
-``` bash
-# 在小程序里添加项目     
-
-## @国富
+![灰气球亲戚称呼计算](images/gh_7dd092c30e75_258.jpg)
